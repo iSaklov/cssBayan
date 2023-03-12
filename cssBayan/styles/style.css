@@ -6,8 +6,8 @@ html {
 
 body {
 	font-family: 'Golos Text', sans-serif;
-	background: space center / 20% url('../assets/logo.svg');
-	color: #3F3844
+	color: #3F3844;
+	background: repeat top / 20% url('../assets/logo.svg');
 }
 
 main {
